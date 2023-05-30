@@ -1,7 +1,7 @@
 ## Olá pessoal 👋
 
 <! --
-**camilafernanda2/camilafernanda2** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
+**cauaauu/cauaauu** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
 
 Aqui estão algumas idéias para você começar:
 
