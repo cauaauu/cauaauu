@@ -1,16 +1,12 @@
-## Olá pessoal 👋
+## Olá pessoal, me chamo Cauã!
+## Bem vindo ao meu perfil GitHub 👋
 
-<! --
-**cauaauu/cauaauu** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
+- 🔭 Atualmente trablhando em uma plataforma que ensina programação para crianças. Consiste em um website e aplicativo android.
+- 🌱 Atualmente estou aprendendo como utilizar fetch API com JavaScript.
+- 🤔 Estou procurando vagas de emprego destinadas à profissionais full-stack.
+- 📫 Como entrar em contato comigo: 
+email: cauasalazar1@gmail.com 
+linkedin: www.linkedin.com/in/cauaau-salazar
 
-Aqui estão algumas idéias para você começar:
 
-- 🔭 Atualmente estou trabalhando em: Uma plataforma que ensina programação para crianças. Consiste em um website e aplicativo android.
-- 🌱 Atualmente estou aprendendo: 
-- 👯 Estou procurando colaborar em ...
-- 🤔 Estou procurando ajuda com ...
-- 💬 Pergunte-me sobre ...
-- 📫 Como entrar em contato comigo: ...
-- 😄 Pronomes: ...
-- ⚡ Curiosidade: ...
--->
+
