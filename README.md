@@ -1,7 +1,7 @@
 ## Olá pessoal, me chamo Cauã!
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente trablhando em uma plataforma que ensina programação para crianças. Consiste em um website e aplicativo android.
+- 🔭 Atualmente trabalhando em uma plataforma que ensina programação para crianças. Consiste em um website e aplicativo android.
 - 🌱 Atualmente estou aprendendo como utilizar fetch API com JavaScript.
 - 🤔 Estou procurando vagas de emprego destinadas à profissionais full-stack.
 - 📫 Como entrar em contato comigo: 
