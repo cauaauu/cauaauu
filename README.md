@@ -5,7 +5,8 @@
 - 🌱 Atualmente estou aprendendo como utilizar fetch API com JavaScript.
 - 🤔 Estou procurando vagas de emprego destinadas à profissionais full-stack.
 - 📫 Como entrar em contato comigo: 
-email: cauasalazar1@gmail.com 
+
+Email: cauasalazar1@gmail.com 
 
 LinkedIn: www.linkedin.com/in/cauaau-salazar
 
